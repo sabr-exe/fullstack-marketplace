@@ -41,18 +41,15 @@ A modern fullstack marketplace web application built with Django REST Framework 
 
 fullstack-marketplace/
 ├── backend/
-│ ├── api/
-│ ├── core/
-│ ├── manage.py
-│ └── requirements.txt
-│
+│   ├── api/
+│   ├── core/
+│   ├── manage.py
+│   └── requirements.txt
 ├── frontend/
-│ ├── src/
-│ ├── public/
-│ └── package.json
-│
+│   ├── src/
+│   ├── public/
+│   └── package.json
 └── README.md
-
 
 ---
 
