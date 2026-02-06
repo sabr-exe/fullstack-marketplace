@@ -132,12 +132,3 @@ GitHub: https://github.com/sabr-exe
 📄 License
 This project is licensed under the MIT License.
 
-
----
-
-## ✅ После вставки — обязательно выполни:
-
-```powershell
-git add README.md
-git commit -m "Improve README"
-git push
