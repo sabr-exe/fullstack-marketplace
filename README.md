@@ -95,15 +95,23 @@ DATABASE_URL=
 JWT_SECRET=
 Frontend .env
 VITE_API_URL=http://localhost:8000/api
-📸 Screenshots
-Add screenshots later in:
+## 📸 Screenshots
 
-/screenshots/
-Example:
+### Home Page
+![Home](screenshots/home.png)
 
-screenshots/home.png
-screenshots/cart.png
-screenshots/admin.png
+### Products
+![Products](screenshots/products.png)
+
+### Order
+![Order](screenshots/cart.png)
+
+### Login
+![Login](screenshots/login.png)
+
+### Admin Panel
+![Admin](screenshots/admin.png)
+
 🌍 API Documentation
 Base URL:
 
