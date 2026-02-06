@@ -1,0 +1,52 @@
+# ========================
+# GLOBAL
+# ========================
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# ENV
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# ========================
+# PYTHON
+# ========================
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+venv/
+env/
+
+*.sqlite3
+
+# ========================
+# NODE
+# ========================
+
+node_modules/
+
+dist/
+build/
+.next/
+
+npm-debug.log*
+yarn-debug.log*
+
+# ========================
+# CACHE
+# ========================
+
+.cache/

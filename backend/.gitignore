@@ -1,0 +1,20 @@
+# ENV
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual env
+venv/
+env/
+
+# DB
+db.sqlite3
+
+# Media
+media/
+staticfiles/
+
+# Logs
+*.log
